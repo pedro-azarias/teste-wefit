@@ -1,6 +1,6 @@
 # Desafio WeFit
 
-![Imagem do Projeto](./assets/printscreen.png)
+![Imagem do Projeto](./src/assets/printscreen.png)
 
 ## Orientações de Instalação
 
